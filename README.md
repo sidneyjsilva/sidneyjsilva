@@ -5,10 +5,12 @@
   </a>
 </div>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio de São José dos Campos.  
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.  Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio de São José dos Campos.<br>
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.<br>
+Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+</p>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidneyjsilva/sidneyjsilva/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidneyjsilva/sidneyjsilva/output/github-contribution-grid-snake-dark.svg">
